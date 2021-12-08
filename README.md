@@ -1,5 +1,6 @@
 # ChurnRatePrediction
 Прогнозирование оттока, кластеризация.
+Инструменты: pandas, matplotlib, seaborn, sklearn, scipy
 
 Задача
 
